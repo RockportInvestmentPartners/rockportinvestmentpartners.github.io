@@ -1,0 +1,20 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Nathan J. Klatt
+N:Klatt;Nathan;J.;;
+EMAIL;TYPE=INTERNET:nklatt@rockportinvestpartners.com
+NOTE:
+ORG:Rockport Investment Partners;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;10 Sunset Drive;Weston;CT;6883;United States of Americ
+ a
+LABEL;TYPE=WORK,PREF:10 Sunset Drive\nWeston\, CT  6883
+ADR;TYPE=HOME:;;;;;;
+ADR;TYPE=POSTAL:;;;;;;
+TEL;TYPE=CELL:+1 (203) 768-5654
+TITLE:Principal
+REV;VALUE=DATE-TIME:2016-02-16T18:58:28,342Z
+END:VCARD
